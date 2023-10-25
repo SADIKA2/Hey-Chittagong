@@ -8,7 +8,7 @@
     "dev": "nodemon src/app.js -e js,hbs"
   },
   "keywords": [],
-  "author": "Shadika Afroze",
+  "author": "Asmaul Hosna Sadika",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.6.0",
